@@ -3,7 +3,7 @@
 # Hi there, I'm Arthur Castro👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=435\&lines=Quant+Trader+by+Day;Multi-Agent+Architect+by+Night;The+Boulder+Never+Stops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=435\&lines=E-commerce+Developer+by+Day;E-commerce+Developer+by+Night;The+Boulder+Never+Stops)](https://git.io/typing-svg)
 
 
 </div>
@@ -13,9 +13,6 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![Quant Trading](https://img.shields.io/badge/Quant_Trading-00C853?style=for-the-badge\&logo=tradingview\&logoColor=white)
-
 
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge\&logo=anthropic\&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge\&logo=openai\&logoColor=white)
